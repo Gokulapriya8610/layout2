@@ -1,0 +1,164 @@
+*{
+    margin: 0px;	
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.name1{
+    position: sticky;
+    top: 0;
+}
+
+section{
+	padding: 40px 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+	
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+
+
+.col-22 {
+    width: 10%;
+    padding: 0 10px;
+}
+
+.left222 {
+    background-color: purple;
+    height: 50px;
+}
+
+.right222 {
+    background-color: black;
+    height: 50px;
+}
+
+.col-6 {
+    width: 50%;
+    padding: 0 15px;
+}
+
+.left {
+    background-color: purple;
+    height: 400px;
+}
+
+.right {
+    background-color: black;
+    height: 400px;
+}
+
+.right1 {
+    background-color: black;
+    height: 600px;
+}
+
+.left1 {
+    background-color: purple;
+    height: 600px;
+}
+
+.col-3 {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.left2 {
+    background-color: purple;
+    height: 400px;
+}
+
+.right2 {
+    background-color: black;
+    height: 400px;
+}
+
+.col-12 {
+    width: 100%;
+   
+}
+
+.col-4 {
+    width: 33.33%;
+    padding: 0 15px;
+}
+
+.left3 {
+    background-color: purple;
+    height: 300px;
+}
+
+.right3 {
+    background-color: black;
+    height: 300px;
+}
+
+.col-12 {
+    width: 100%;
+    
+}
+
+.col-new {
+    width: 33.33%;
+}
+
+.right7 {
+    background-color: black;
+    height: 500px;
+}
+
+.left7 {
+    background-color: purple;
+    height: 500px;
+}
+
+/* .col-4 { */
+    /* width: 33.33%; */
+    /* padding: 0 15px; */
+/* } */
+
+.left12 {
+    background-color: purple;
+    height: 500px;
+}
+
+.right12 {
+    background-color: black;
+    height: 500px;
+}
+
+.left {
+    background-color: purple;
+    height: 400px;
+}
+
+.col-8 {
+    width: 66.66%;
+    padding: 0 15px;
+}
+
+.right {
+    background-color: black;
+    height: 400px;
+}
+
+.col-new1 {
+    width: 20%;
+}
+
+.right122 {
+    background-color: black;
+    height: 200px;
+}
+
+.left122 {
+    background-color: purple;
+    height: 200px;
+}
